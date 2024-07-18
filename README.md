@@ -6,6 +6,10 @@
 官方给的数据集在这链接：https://pan.baidu.com/s/1icPaGlZfs-0mfVxxBMIiQg?pwd=xaaf 
 提取码：xaaf 
 
+我自行训练的分类模型在这：https://pan.baidu.com/s/1jC4gcGBLUkhncU5DeyrGSw?pwd=j86n 
+提取码：j86n 
+
+
 ## 数据集
 该比赛所使用的数据集来自“殷契文渊”平台提供的 HWOBC 数据集，“殷契文渊”平台是世界上现有的资料最齐全、最规范、最权威的甲骨文数据平台，对全世界免费开放，改变了过去甲骨文研究的“窘境”。  
 经过筛选保留了 376 种已破译的甲骨文字符，其中每个类别平均包含 100 张以上的字符图片，分为训练集和测试集。
