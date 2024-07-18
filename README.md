@@ -36,4 +36,8 @@
     <div class='insertItem' align=center><img src="https://imgbed.momodel.cn/20231202093630.png" width="200px"/></div> 
 </div>
 
+#文件说明
+## main.ipynb
+官方提供的说明文档，包含数据集的构成、来源等信息，同时说明了答题格式
+
 
