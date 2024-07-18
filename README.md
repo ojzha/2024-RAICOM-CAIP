@@ -15,10 +15,10 @@
 
  
 <div class='insertContainerBox row'>
-<div class='insertItem' align=center><img src="https://imgbed.momodel.cn/20231202093532.png" width="200px"/></div>
-   <div class='insertItem' align=center><img src="https://imgbed.momodel.cn/20231202093548.png" width="200px"/></div> 
-       <div class='insertItem' align=center><img src="https://imgbed.momodel.cn/20231202093607.png" width="200px"/></div> 
-    <div class='insertItem' align=center><img src="https://imgbed.momodel.cn/20231202093630.png" width="200px"/></div> 
+<div class='insertItem' align=center><img src="https://imgbed.momodel.cn/20231202093532.png" width="40px"/></div>
+   <div class='insertItem' align=center><img src="https://imgbed.momodel.cn/20231202093548.png" width="40px"/></div> 
+       <div class='insertItem' align=center><img src="https://imgbed.momodel.cn/20231202093607.png" width="40px"/></div> 
+    <div class='insertItem' align=center><img src="https://imgbed.momodel.cn/20231202093630.png" width="40px"/></div> 
 </div>
 
 #文件说明
