@@ -28,12 +28,12 @@
 # 模型结果
 
 ## Resnet
-<img src="https://github.com/user-attachments/assets/56dede9c-c68f-4211-892a-3ddb171b1615" alt="Image description" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/56dede9c-c68f-4211-892a-3ddb171b1615" alt="Image description" width="800" height="500">
 
 
 
 ## GoogleNet
-![image](https://github.com/user-attachments/assets/bee6f34e-e4a2-4e5a-ae02-13946be8b6b1)
+<img src="https://github.com/user-attachments/assets/bee6f34e-e4a2-4e5a-ae02-13946be8b6b1" alt="Image description" width="800" height="500">
 
 
 
