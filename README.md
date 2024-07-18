@@ -25,7 +25,14 @@
     <div class='insertItem' align=center><img src="https://imgbed.momodel.cn/20231202093630.png" width="40px"/></div> 
 </div>
 
+# 模型结果
+
+## Resnet
 ![image](https://github.com/user-attachments/assets/56dede9c-c68f-4211-892a-3ddb171b1615)
+
+
+## GoogleNet
+![image](https://github.com/user-attachments/assets/bee6f34e-e4a2-4e5a-ae02-13946be8b6b1)
 
 
 
