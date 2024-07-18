@@ -25,13 +25,13 @@
 ## main.ipynb
 官方提供的说明文档，包含数据集的构成、来源等信息，同时说明了答题格式
 
-## Resnet_train
+## Resnet_train.py
 Resnet网络的训练代码
 
-## GoogleNet_train
+## GoogleNet_train.py
 GoogleNet网络的训练代码
 
-## 模型测试ipynb
+## 模型测试.ipynb
 用于测试代码能否对数据集进行推理与输出结果，已经调试成适合Mo平台输入输出的格式
 
 
