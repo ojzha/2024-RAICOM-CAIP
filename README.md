@@ -28,7 +28,8 @@
 # 模型结果
 
 ## Resnet
-![image](https://github.com/user-attachments/assets/56dede9c-c68f-4211-892a-3ddb171b1615)
+<img src="https://github.com/user-attachments/assets/56dede9c-c68f-4211-892a-3ddb171b1615" alt="Image description" width="300" height="200">
+
 
 
 ## GoogleNet
